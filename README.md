@@ -3,7 +3,7 @@
 A minimal Proof of Concept application for generating personalized book recommendations using OpenAI's o4-mini model.
 
 ## Created with bolt.new
-## Prompt and addtional test data in .bolt_init
+Prompt and addtional test data in .bolt_init
 
 ## Features
 
